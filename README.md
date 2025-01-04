@@ -10,5 +10,5 @@ Calculate investments and interest in next years given by user input.
 - Using CSS modules.
 
 # to run project locally
-npm insstall
+npm install
 npm run start
